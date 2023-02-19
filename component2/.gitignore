@@ -1,2 +1,7 @@
 kayıt.log
+*.log
+!files/example.txt
+git remote add origin https://github.com/adembogatekin/deneme.git
+git branch -M main
+git push -u origin main
 
